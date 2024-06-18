@@ -1,6 +1,6 @@
 # Hola, soy Kevin Mejía 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy desarrollador de software apasionado por el back-end. Aquí encontrarás algunos de los proyectos en los que he trabajado y colaboraciones en las que he participado.
+¡Bienvenido a mi perfil de GitHub! Soy desarrollador de software apasionado por el back-end. Aquí encontrarás algo de información básica sobre mí y algunas de mis habilidades.
 
 ## Acerca de mí
 
